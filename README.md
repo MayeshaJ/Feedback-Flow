@@ -1,4 +1,4 @@
-# Team L Project
+# Feedback Flow
 
 ## How to run:
 - First run the following to install dependancies:
